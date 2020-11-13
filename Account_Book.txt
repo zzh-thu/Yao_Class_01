@@ -3,3 +3,14 @@
     Change: 2300.00
     Balance: 2300.00
 
+2020.11.13
+    Outgo: 346.05
+        2020.11.12 Presents for Boy's Day
+            Postcards: 18
+            Bubble Tea: 110
+            Snacks: 166.8
+            Bags: 51.25
+        In total: 346.05
+    Change: -346.05
+    Balance: 1953.95
+
