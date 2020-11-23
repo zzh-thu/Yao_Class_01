@@ -14,3 +14,11 @@
     Change: -346.05
     Balance: 1953.95
 
+2020.11.24
+    Outgo: 202.30
+        2020.11.22 Snacks for the second class meeting
+            Snacks: 202.30
+        In total: 202.30
+    Change: -202.30
+    Balance: 1751.65
+
