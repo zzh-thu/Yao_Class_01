@@ -22,3 +22,11 @@
     Change: -202.30
     Balance: 1751.65
 
+2021.02.27
+    Outgo: 86.75
+        2021.02.27 Snacks for the first class meeting
+            Snacks: 86.75
+        In total: 86.75
+    Change: -86.75
+    Balance: 1664.9
+
