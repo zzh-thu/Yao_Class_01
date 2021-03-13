@@ -28,5 +28,14 @@
             Snacks: 86.75
         In total: 86.75
     Change: -86.75
-    Balance: 1664.9
+    Balance: 1664.90
+
+2021.03.13
+    Outgo: 706.00
+        2021.03.07 Presents for Girl's Day
+            Personal Presents: 409.20 = 195.00 + 168.50 + 45.70
+            General Presents: 296.80
+        In total: 706.00
+    Change: -706.00
+    Balance: 958.90
 
