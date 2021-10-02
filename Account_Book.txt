@@ -46,4 +46,13 @@
         In total: 244.20
     Change: -244.20
     Balance: 714.70
+   
+2021.10.02
+    Outgo: 63.90
+        2021.10.02 group activity
+            snacks: 63.90 
+        In total: 63.90
+    Change: -63.90
+    Balance: 644.80
+
 
